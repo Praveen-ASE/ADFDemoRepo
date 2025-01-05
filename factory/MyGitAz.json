@@ -1,0 +1,9 @@
+{
+	"name": "MyGitAz",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d3a73195-6a3f-4d21-bf18-30038dbab387",
+		"tenantId": "59a835dc-9bb5-4423-82dd-5069fe899816"
+	}
+}
